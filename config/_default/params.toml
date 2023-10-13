@@ -88,11 +88,11 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ktmeaton@gmail.com"
+email = "pablock@lst.uni-saarland.de"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-# address = {street = "CNH 412, 1280 Main Street W", city = "Hamilton", region = "ON", postcode = "L8S 4L9", country = "Canada", country_code = "CA"}
+address = {street = "Geb. C7 1, 1.17", city = "Saarbrücken", postcode = "66123", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -110,9 +110,11 @@ email = "ktmeaton@gmail.com"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-# contact_links = [
-#  {icon = "envelope", icon_pack = "fas", name = "Get in touch by email", link = "mailto:ktmeaton@gmail.com"},
-#  ]
+contact_links = [
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/pcontrerask"},
+  {icon = "github", icon_pack = "fab", name = "Repositories", link = "https://github.com/contreraskallens/"},
+  {icon = "orcid", icon_pack = "fab", name = "ORCID", link = "https://orcid.org/0000-0002-3805-3488"},
+  ]
 
 ############################
 ## Social
@@ -122,7 +124,7 @@ email = "ktmeaton@gmail.com"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "ktmeaton"
+twitter = "pcontrerask"
 
 ############################
 ## Regional Settings

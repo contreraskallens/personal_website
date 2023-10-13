@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Katherine Eaton
+name: Pablo Andrés Contreras Kallens
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: McMaster Ancient DNA Centre
-  url: "https://socialsciences.mcmaster.ca/mcmaster-ancient-dna-centre"
+- name: Department of Language Science and Technology, University of the Saarland
+  url: "https://www.uni-saarland.de/fachrichtung/lst.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a multidisciplinary researcher, bridging the gap between the sciences as a computational biologist, and the humanities as an anthropologist interested in infectious diseases.
+bio: My research interests are in the intersection of language learning and processing, language evolution, computational modeling, and metascience.
 
 interests:
-- Anthropology
-- Bioinformatics
-- Infectious Disease
-- Digital Humanities
-- Software Development
+- Cognitive Science
+- Data Analysis
+- Language Evolution
+- Language and Cognition
+- Science of Science
 
 education:
   courses:
-  - course: PhD in Anthropology
-    institution: McMaster University
-    year: 2022
-  - course: BA in Anthropology
-    institution: University of Alberta
-    year: 2009
+  - course: Ph. D. in Psychology
+    institution: Cornell University
+    year: 2023
+  - course: MA in Philosophy
+    institution: Universidad de Chile
+    year: 2016
+  - course: BA in Philosophy
+    institution: Universidad de Chile
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -43,32 +46,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ktmeaton@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:pablock@lst.uni-saarland.de'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/ktmeaton
+  link: https://twitter.com/pcontreras3
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.ca/citations?user=0Ksx4iwAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=GU6r0m4AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/ktmeaton
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/contreraskallens
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "ktmeaton@gmail.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
-# - Researchers
-# - Visitors
+# Researchers
+# Visitors
 ---
-
-Katherine Eaton is a PhD candidate at McMaster University and she studies the infectious disease “The Plague”. Her dissertation focuses on reconstructing the spread of this disease across the globe, using clinical samples and ancient DNA recovered from archaeological victims of ancient outbreaks.
-
-By investigating past and present incidents of the plague, her work contributes to a better understanding of which populations were affected, why it went extinct in certain geographic regions, and how it has managed to persist throughout human history.
+Hey! I’m a postdoctoral researcher in the Psycholinguistics group at the Faculty of Language Science and Technology in the University of the Saarland in Germany. I recently graduated from the Ph. D. program at the Department of Psychologgy, Cornell University, under the supervision of Morten H. Christiansen. My main research interests lie in computational modeling, machine learning and other data analysis techniques applied to the study of language learning and processing. Having a background in Philosophy of Science, I’m also interested in data-driven exploration of scientific activity. I like to tackle these topics with a firm eye on theoretical considerations and the predictions of overarching frameworks.
